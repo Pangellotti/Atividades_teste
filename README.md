@@ -14,3 +14,6 @@ foram propostas 3 atividades:
         Data da medição
         Vazão consolidada
         Vazão Incremental
+
+        E como segunda parte, descrever como modelaria um banco de dados para guardar esse tipo de infromação
+        e o relacionamento  entre os dados.
